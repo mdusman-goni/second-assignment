@@ -1,0 +1,98 @@
+H2{
+    color: #363958;
+    font-weight: 900;
+    margin: 30px 0;
+}
+section{
+    margin: 50px 0;
+}
+.navbar-brand img{
+    width: 250px;
+}
+.navbar-nav a{
+    color: #363958 !important;
+}
+.navbar-nav a:hover{
+    color: #a4bc46 !important;
+}
+.top-section div h1{
+    font-size: 60px;
+    color: #fabe4c;
+}
+.top-section div h1 span{
+    color: #363958;
+}
+.top-section a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 18px 30px;
+    background-image: linear-gradient(to top, #a4bc46, #a0c03b, #9bc32f, #96c720, #8fcb07);
+    border-radius: 10px;
+}
+.top-section p{
+    padding: 25px 0;
+}
+.top-section img{
+    width: 100%;
+}
+.top-section div{
+    align-items: center;
+}
+.card img{
+    height: 300px;
+    padding: 15px 40px;
+    background-color: whitesmoke;
+}
+.formal-shoe img{
+    background-color: #fff;
+}
+.card-body h5{
+    font-weight: 700;
+    color: #363958;
+}
+.card-footer{
+    border: none;
+    background-color: #fff;
+}
+.card-footer a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 18px 30px;
+    background-image: linear-gradient(to top, #a4bc46, #a0c03b, #9bc32f, #96c720, #8fcb07);
+    border-radius: 10px;
+}
+.card-footer span{
+    font-size: 30px;
+    font-weight: 700;
+    color: #fabe4c;
+}
+.advantage-section{
+    /* height: 475px; */
+    margin: 70px auto;
+}
+.advantage-section img{
+    width: 100%;
+}
+.advantage-parts{
+    height: 140px;
+    border: none;
+}
+.advantage-parts img{
+    height: 100%;
+    background-color: #fff;
+}
+.button{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 5px 10px;
+    background-image: linear-gradient(to top, #a4bc46, #a0c03b, #9bc32f, #96c720, #8fcb07);
+    border-radius: 5px;
+}
+
+footer{
+    background-color: whitesmoke;
+    padding: 50px 20px;
+}
